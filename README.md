@@ -1,8 +1,7 @@
 
 # Cross platform desktop app development (CPD)
 
-This project gonna to explain about how we can develop the CPD.
-We have serveral ways to develop a CPD app:
+This project gonna to explain about how we can develop the CPD app.:
 
 ## Electronjs
 
